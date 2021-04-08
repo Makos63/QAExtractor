@@ -1,0 +1,121 @@
+yielding for url https://www.tk.de/vertriebspartner/faq/kuendigung/kuendigungsfrist-2064134
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/auskuenfte-ueber-einen-eingereichten-antrag-2065492
+yielding for url https://www.tk.de/vertriebspartner/faq/kuendigung/wer-muss-kuendigen-2064140
+yielding for url https://www.tk.de/vertriebspartner/faq/kuendigung/sonderkuendigungsrecht-2064148
+yielding for url https://www.tk.de/vertriebspartner/faq/kuendigung/statuswechsels-2064152
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/grenzgaenger-2065494
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/hoechstvorlaufzeit-fuer-mitgliedschaftsantraege-2065490
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/kassenwechsel-waehrend-behandlung-2065482
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/kassenwechsel-waehrend-mutterschutz-2065488
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/mitgliedschaftsbescheinigung-an-vertriebspartner-2065486
+yielding for url https://www.tk.de/vertriebspartner/faq/sonstige/wechsel-55-jaehriger-in-gkv-2065484
+yielding for url https://www.tk.de/vertriebspartner/faq/wettbewerbsgrundsaetze/wettbewerbsgrundsaetze-2065468
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/wann-ist-ein-krankenkassenwechsel-moeglich--2076222
+yielding for url https://www.tk.de/vertriebspartner/faq/abrechnung/zeitpunkt-aufwandsentschaedigung-2063828
+yielding for url https://www.tk.de/vertriebspartner/faq/kuendigung/kuendigungsprozess-2064252
+yielding for url https://www.tk.de/vertriebspartner/faq/kuendigung/familienversicherung-2064254
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/keine-bindefrist-bei-arbeitgeberwechsel-2098264
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/antrag-und-angaben-2064256
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/unterlagen-fuer-jeweilige-kunden-2064258
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/bankverbindung-2064264
+yielding for url https://www.tk.de/vertriebspartner/faq/abrechnung/neuaufnahme-fehlt-in-abrechnung-2063980
+yielding for url https://www.tk.de/vertriebspartner/faq/abrechnung/keine-aufwandsentschaedigung-2064110
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/familienversicherung-vorkasse-2064270
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/familienversicherung-2064272
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Grundsätzlich beste...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die Frist zur Bindu...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Eine <a data-tk-tea...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die Bindungsfrist v...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die Sonderkündigung...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Hat das Mitglied ei...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die Vermittlung ist...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Sie können den aktu...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Personen, die in De...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">In Deutschland könn...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Grundlage dieses Vo...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Der umgekehrte Fall...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/wechsel-von-pkv-zu-gkv-2064274
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ja. Ab dem ersten T...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Mitgliedschaftsantr...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/wartezeiten-und-gesundheitspruefung-2064276
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ja, wichtig ist jed...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Wenn die Frau pflic...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">War die Frau vor de...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ausnahmen des Wahlr...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Das Mitglied hat ke...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die <strong>12-mona...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><br></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><strong>Beispiel 1\xa0...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Mitglied als Studie...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.02.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ende Studium</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">31.03.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neue versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.04.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Es besteht zum 01.0...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><br></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Beispiel 2\xa0- Sofort...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Mitglied seit</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.01.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ende\xa0versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">15.03.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neue versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">16.03.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ende versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">31.07.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neue versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.08.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neues Wahlrecht sow...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><br></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Beispiel 3\xa0- Sofort...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">TK-Mitglied (von - ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.06.2020\xa0- 31.12....'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Auslandsaufenthalt ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.01.2021\xa0- 30.06....'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Rückkehr und Versic...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.07.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ab 01.07.21\xa0kein ne...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Beispiel 4\xa0- Sofort...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Familienversicherun...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">30.04.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">obligatorische Ansc...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.05.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neue versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.07.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Kein neues Wahlrech...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><br></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Beispiel 5\xa0- Sofort...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">TK-Mitglied seit\xa0</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">01.01.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ende versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">31.05.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neue versicherungsp...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">15.06.2021</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neues Wahlrecht ab ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ja, wenn er in den ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Nein, leider nicht....'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Grund dafür ist, da...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/bearbeitungszeit-neuaufnahmen-2064278
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Kündigung der Vorka...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Sie erhalten Ihre A...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die Abrechnungen si...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/bestaetigung-eingang-neuaufnahme-2064280
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Wettbewerb in der G...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Durch Wettbewerb so...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die Wettbewerbsgrun...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Wesentliche Neuerun...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Nein, die Abmeldung...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/fehlende-unterlagen-2064286
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/wo-ist-der-neuaufnahmeantrag-einzureichen-2064292
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Bei einer neuen Bes...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Als Vertriebspartne...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Zu den wichtigsten ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+yielding for url https://www.tk.de/vertriebspartner/faq/neuaufnahme/keine-bindefrist-bei-arbeitgeberwechsel-2098264
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Nein, die Bankverbi...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Nur die Mitgliedsch...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Sollten Sie den Ant...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Eine Vergütung erfo...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Folgende Tabelle gi...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Bescheide</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Arbeitnehmer</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ggfs.</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Selbstständige</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja, Einkommens-<br>...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Studenten</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja, falls ausgeübt</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Rentner</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja, Rentenbescheid</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ggfs.</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Arbeitslose</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">ja, Arbeitslosengel...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">\xa0-</p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><br></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text"><br></p>'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Nein. Die TK benöti...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK versichert F...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Erfahren Sie, wer <...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Wenn Sie es wünsche...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Eine Bestätigung de...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ein Wechsel von der...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Ausnahmen sind zum ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Bei Nachweis einer ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Trifft dies zu, ist...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Bei einem Wechsel z...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Es wird circa eine ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Für die Gesamtbearb...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Bitte wenden Sie si...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Sie können den aktu...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]
+xpaths:
+[<Selector xpath='//h1[@class="e-headline e-headline--h1 m-header__headline"]' data='<h1 class="e-headline e-headline--h1 ...'>]
+[<Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Neuaufnahmeanträge ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Techniker Krankenka...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Tel. 040 - 46 06 62...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">E-Mail vertriebspar...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">* Montags bis freit...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Sollten Sie hierzu ...'>, <Selector xpath='//p[@class="e-text"]' data='<p class="e-text">Die TK verwendet Co...'>]

@@ -1,0 +1,170 @@
+{
+   "version":"v2.0",
+   "data":[
+      {
+         "title":"TK",
+         "paragraphs":[
+            {
+               "qas":[
+                  {
+                     "question":"Was ist bei Elterngeld und Elternzeit zu beachten?",
+                     "id":1000,
+                     "answers":[
+                        {
+                           "text":"Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld.",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer ist freiwillig versichert?",
+                     "id":1001,
+                     "answers":[
+                        {
+                           "text":"Freiwillig versichern können sich alle",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was müssen Studenten beachten?",
+                     "id":1002,
+                     "answers":[
+                        {
+                           "text":"Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02",
+                           "answer_start":285
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Welche Beitragssätze gibt es?",
+                     "id":1003,
+                     "answers":[
+                        {
+                           "text":"setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen",
+                           "answer_start":44
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 %"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Freiwillig versichert oder pflichtversichert?",
+                     "id":1004,
+                     "answers":[
+                        {
+                           "text":"Für die meisten Menschen gilt die Pflicht zur Versicherung in einer gesetzlichen Krankenkasse",
+                           "answer_start":73
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"In Deutschland muss sich jeder Bürger bei einer Krankenkasse versichern. Für die meisten Menschen gilt die Pflicht zur Versicherung in einer gesetzlichen Krankenkasse. Dazu zählt zum Beispiel der Großteil der Arbeitnehmer und Rentner. Bestimmte Personengruppen können jedoch nach dem Gesetz selbst entscheiden, ob sie sich privat oder freiwillig gesetzlich versichern. Ist also von einer freiwilligen Krankenversicherung die Rede, bezieht sich das auf die Wahlfreiheit zwischen einer privaten und einer gesetzlichen Versicherung wie der TK."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wie hoch sind die Beitragsbemessungsgrenzen?",
+                     "id":1005,
+                     "answers":[
+                        {
+                           "text":"in der Kranken- und Pflegeversicherung liegt 2021 bei 58.050 Euro jährlich beziehungsweise 4.837,50 Euro monatlich",
+                           "answer_start":29
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Beitragsbemessungsgrenze in der Kranken- und Pflegeversicherung liegt 2021 bei 58.050 Euro jährlich beziehungsweise 4.837,50 Euro monatlich. In der Renten- und Arbeitslosenversicherung sind es 85.200 Euro jährlich (7.100 Euro monatlich) im Rechtskreis West und 80.400 Euro jährlich (6.700 Euro monatlich) im Rechtskreis Ost. Nachstehend finden Sie eine Übersicht mit den Werten (in Euro) der letzten Jahre. Kalenderjahr Jahresbetrag Monatsbetrag Kalendertag 2021 58.050,00 4.837,50 161,25 2020 56.250,00 4.687,50 156,25 2019 54.450,00 4.537,50 151,25 2018 53.100,00 4.425,00 147,50 2017 52.200,00 4.350,00 145,00 2016 50.850,00 4.237,50 141,25"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer ist pflichtversichert?",
+                     "id":1006,
+                     "answers":[
+                        {
+                           "text":"grundsätzlich alle Arbeitnehmer",
+                           "answer_start":28
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Versicherungspflichtig sind grundsätzlich alle Arbeitnehmer, die aus ihrer Beschäftigung ein regelmäßiges beitragspflichtiges Einkommen von mehr als 450 Euro pro Monat und maximal 5.362,50 Euro pro Monat verdienen. Den unteren Wert nennt man Geringfügigkeitsgrenze, den oberen die allgemeine Versicherungspflichtgrenze. Diese Werte werden regelmäßig vom Gesetzgeber angepasst. Minijobber mit einem Einkommen von höchstens 450 Euro pro Monat sind versicherungsfrei. Sie zahlen selbst keine Beiträge. Das gleiche gilt für geringfügig beschäftigte Arbeitnehmer, die normalerweise nicht berufstätig sind und nur kurzfristig bis zu zwei Monate pro Jahr beschäftigt sind."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Für wen findet der durchschnittliche Zusatzbeitragssatz Anwendung?",
+                     "id":1008,
+                     "answers":[
+                        {
+                           "text":"Haben diese Personenkreise weitere beitragspflichtige Einnahmen (z.B. Renten oder Versorgungsbezüge), gilt dafür der kassenindividuelle Zusatzbeitragssatz.",
+                           "answer_start":129
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Für bestimmte Personenkreise gilt nicht der kassenindividuelle, sondern der durchschnittliche Zusatzbeitragssatz.  Dazu gehören: Haben diese Personenkreise weitere beitragspflichtige Einnahmen (z.B. Renten oder Versorgungsbezüge), gilt dafür der kassenindividuelle Zusatzbeitragssatz."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was müssen Fachschüler beachten?",
+                     "id":1009,
+                     "answers":[
+                        {
+                           "text":"können sich besonders günstig bei der TK versichern. Bis zu ihrem 25. ",
+                           "answer_start":19
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Fachschüler, die eine berufsbezogene Ausbildung an einer Berufsfachschule im Vollzeitunterricht absolvieren, können sich besonders günstig bei der TK versichern. Bis zu ihrem 25. Geburtstag können sie noch beitragsfrei über ihre Eltern mitversichert sein. Für die Beurteilung der Versicherung als Fachschüler spielt die die Altersgrenze (Vollendung des 30. Lebensjahres) keine Rolle. Für alle Fachschüler beträgt der monatlich Beitrag zur gesetzlichen Krankenversicherung 85,87 Euro (inklusive des TK-Zusatzbeitrags von 9,02 Euro) und 22,94 Euro für die Pflegeversicherung. Mitglieder ohne Kinder, die das 23. Lebensjahr vollendet haben, zahlen einen höheren Beitrag zur Pflegeversicherung und zwar 24,82 Euro. Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was ist der durchschnittliche Zusatzbeitragssatz?",
+                     "id":10010,
+                     "answers":[
+                        {
+                           "text":"Für 2021 liegt er bei 1,3 Prozent und gilt ab dem 1. Januar 2021.",
+                           "answer_start":394
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Der durchschnittliche Zusatzbeitragssatz ist eine rechnerische Größe. Ein Expertengremium schätzt jedes Jahr bis zum 15. Oktober die Höhe der voraussichtlichen Ausgaben der Krankenkassen und Einnahmen des Gesundheitsfonds für das folgende Kalenderjahr. Das Bundesministerium für Gesundheit legt u. a. nach Auswertung dieser Ergebnisse die Höhe des durchschnittlichen Zusatzbeitragssatzes fest. Für 2021 liegt er bei 1,3 Prozent und gilt ab dem 1. Januar 2021."
+            }
+         ]
+      }
+   ]
+}

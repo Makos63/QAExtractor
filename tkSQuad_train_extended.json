@@ -1,0 +1,648 @@
+{
+   "version":"v2.0",
+   "data":[
+      {
+         "title":"TK",
+         "paragraphs":[
+            {
+               "qas":[
+                  {
+                     "question":"Wann besteht ein Sonderkündigungsrecht?",
+                     "id":0,
+                     "answers":[
+                        {
+                           "text":"wenn eine Krankenkasse erstmals einen Zusatzbeitrag erhebt oder diesen erhöht",
+                           "answer_start":43
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Bindungsfrist von 12 Monaten entfällt, wenn eine Krankenkasse erstmals einen Zusatzbeitrag erhebt oder diesen erhöht. Die Sonderkündigung wegen des Zusatzbeitrags muss der Krankenkasse vorliegen, bevor dieser zum ersten Mal fällig wird. Die zweimonatige Kündigungsfrist zum Monatsende bleibt hiervon unberührt. Hat das Mitglied einen Krankengeld-Wahltarif abgeschlossen und gilt deshalb eine drei-jährige Bindungsfrist, wird diese nicht vom Sonderkündigungsrecht aufgehoben. Diese Mitglieder können erst zum Ablauf der Bindungsfrist des Wahltarifs kündigen und müssen bis dahin den - erhöhten - Zusatzbeitrag zahlen."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Haben Kunden trotz eines Statuswechsels innerhalb der GKV eine Kündigungsfrist einzuhalten?",
+                     "id":1,
+                     "answers":[
+                        {
+                           "text":"Mit der Aufnahme einer neuen versicherungspflichtigen Beschäftigung kann das Mitglied bis maximal 14 Tage nach Beschäftigungsbeginn eine neue Kasse wählen - ohne Einhaltung der Bindungsfrist",
+                           "answer_start":44
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Keine Bindungsfrist bei Arbeitgeberwechsel. Mit der Aufnahme einer neuen versicherungspflichtigen Beschäftigung kann das Mitglied bis maximal 14 Tage nach Beschäftigungsbeginn eine neue Kasse wählen - ohne Einhaltung der Bindungsfrist. Das gilt auch bei einem Arbeitgeberwechsel oder beim Wechsel von einem versicherungspflichtigen Status in einen anderen, zum Beispiel wenn die Versicherungspflicht bei Überschreiten der Jahresarbeitsentgeltgrenze (JAEG) am Jahresende in eine freiwillige Versicherung geändert wird"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Ab wann kann ich Auskünfte über einen eingereichten Antrag erhalten?",
+                     "id":2,
+                     "answers":[
+                        {
+                           "text":"Die Vermittlung ist nach ca. 3 bis 5 Tagen sichtbar",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Vermittlung ist nach ca. 3 bis 5 Tagen sichtbar. Die eingereichten Unterlagen werden in dieser Zeit maschinell verarbeitet. Sie können den aktuellen Stand der Verarbeitung in der   jederzeit nachverfolgen."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer muss bei der bisherigen Krankenkasse kündigen?",
+                     "id":3,
+                     "answers":[
+                        {
+                           "text":"Die Kündigung bei der bisherigen Kasse erfolgt nicht mehr durch den Kunden, sondern durch die TK.",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Kündigung bei der bisherigen Kasse erfolgt nicht mehr durch den Kunden, sondern durch die TK. Die Kündigungsfrist von zwei Monaten zum Monatsende bei einer durchgängigen Beschäftigung gilt weiterhin. Der Versicherte erhält außerdem keine Kündigungsbestätigung mehr von seiner bisherigen Kasse."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Gibt es eine Höchstvorlaufzeit für Mitgliedschaftsanträge?",
+                     "id":4,
+                     "answers":[
+                        {
+                           "text":"bis zu einem Jahr",
+                           "answer_start":30
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Mitgliedschaftsanträge können bis zu einem Jahr vor Versicherungsbeginn bei der TK eingereicht werden."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wie ist die Kündigungsfrist bei der bisherigen Krankenkasse?",
+                     "id":5,
+                     "answers":[
+                        {
+                           "text":"zwei volle Kalendermonate zum Monatsende",
+                           "answer_start":113
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Grundsätzlich besteht eine 12-monatige Bindungsfrist bei der gewählten Krankenkasse. Die Kündigungsfrist beträgt zwei volle Kalendermonate zum Monatsende.  Die Frist zur Bindung an die bisherige Kasse verlängert sich auf bis zu drei Jahre, sofern der Kunde einen Wahltarif bei der bisherigen Krankenkasse gewählt hat (abhängig von der Art des Wahltarifes). Dann endet die Bindungsfrist frühestens mit Ablauf des Wahltarifes."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was ist bei sogenannten Grenzgängern zu beachten?",
+                     "id":6,
+                     "answers":[
+                        {
+                           "text":"Personen, die in Deutschland leben und im europäischen Ausland arbeiten, sind grundsätzlich in dem Land krankenversichert",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Personen, die in Deutschland leben und im europäischen Ausland arbeiten, sind grundsätzlich in dem Land krankenversichert, in dem die Beschäftigung besteht. In Deutschland können sie sich eine Krankenkasse suchen, die die Kosten für eventuell anfallende medizinische Versorgung begleicht, so dass sie in Deutschland zum Arzt gehen können. Die deutsche Krankenkasse lässt sich die entstandenen Kosten von der Krankenversicherung im Beschäftigungsland zurückerstatten. Grundlage dieses Vorgangs ist das Formular S1 / E106 als Nachweis der Versicherung im Beschäftigungsland, welches der deutschen Krankenkasse vorgelegt werden muss, damit der Versicherte eine Versicherungskarte erhält. Grenzgänger sind keine TK-Mitglieder, somit ist auch kein Neuaufnahmeantrag für sie einzureichen. Der umgekehrte Fall (Wohnsitz im europäischen Ausland, Beschäftigung in Deutschland) verhält sich analog."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Ist für Frauen im Mutterschutz oder während der Elternzeit auch ein Wechsel der Krankenkasse möglich?",
+                     "id":7,
+                     "answers":[
+                        {
+                           "text":"Ja, wichtig ist jedoch, dass auf dem Mitgliedschaftsantrag auch der Arbeitgeber vermerkt ist, bei dem die Frau während des Mutterschutzes bzw. der Elternzeit angestellt ist",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Ja, wichtig ist jedoch, dass auf dem Mitgliedschaftsantrag auch der Arbeitgeber vermerkt ist, bei dem die Frau während des Mutterschutzes bzw. der Elternzeit angestellt ist. Wenn die Frau pflichtversichert ist, ist die Mitgliedschaft während Mutterschutz/Elternzeit beitragsfrei. War die Frau vor dem Mutterschutz bzw. der Elternzeit als Arbeitnehmerin freiwillig versichert (z.B. wegen Überschreitung der Versicherungspflichtgrenze oder als Beamtin)  muss geprüft werden, ob sie Anspruch auf die Familienversicherung hat. Ist ihr Mann in der PKV, besteht dieser Familienversicherungsanspruch nicht und sie muss sich in der GKV beitragspflichtig weiterversichern."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Kann man während einer laufenden Behandlung die Krankenkasse wechseln?",
+                     "id":8,
+                     "answers":[
+                        {
+                           "text":"Ja",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":" Ja. Ab dem ersten Tag hat der Versicherte vollen Leistungsanspruch gegenüber seiner neuen Kasse."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Darf die TK ihrem Vertriebspartner eine Mitgliedschaftsbescheinigung oder Informationen für seinen Mandanten zukommen lassen?",
+                     "id":9,
+                     "answers":[
+                        {
+                           "text":"Nein",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nein, leider nicht. Sie erhalten von uns eine Eingangsbestätigung mit einer Neukundennummer. Grund dafür ist, dass diese Daten als Sozialdaten bezeichnet werden und einem besonderen Schutz, dem Sozialgeheimnis nach dem Sozialgesetzbuch unterliegen. Das Sozialgeheimnis schützt die Sozialdaten vor unzulässiger Erhebung, Verarbeitung und Nutzung. Dieser Schutz besteht auch darin, dass Mitarbeiter der TK auf Sozialdaten nur zugreifen oder von diesen Kenntnis erhalten dürfen, wenn dies für die Erledigung ihrer Aufgaben erforderlich ist."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wann erhalten Sie Ihre Aufwandsentschädigung?",
+                     "id":10,
+                     "answers":[
+                        {
+                           "text":"nachdem die Mitgliedschaft wirksam geworden ist",
+                           "answer_start":41
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Sie erhalten Ihre Aufwandsentschädigung, nachdem die Mitgliedschaft wirksam geworden ist, nicht mit Eingang der Unterlagen. Die Abrechnungen sind bis zum 15. jeden Monats abgeschlossen und werden postalisch an Sie versandt. Beginnt die Mitgliedschaft im laufenden Monat, erfolgt die Auszahlung erst mit Abrechnung des Folgemonats."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Kann ein 55-Jähriger noch in die GKV wechseln?",
+                     "id":11,
+                     "answers":[
+                        {
+                           "text":"wenn er in den letzten fünf Jahren mindestens einen Tag in der GKV versichert war",
+                           "answer_start":4
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Ja, wenn er in den letzten fünf Jahren mindestens einen Tag in der GKV versichert war. Hierüber ist ein Nachweis erforderlich."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wie läuft der Kündigungsprozess ab?",
+                     "id":12,
+                     "answers":[
+                        {
+                           "text":"Kündigung der Vorkasse ist nicht mehr nötig",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Kündigung der Vorkasse ist nicht mehr nötig"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Welche Wettbewerbsgrundsätze gelten?",
+                     "id":13,
+                     "answers":[
+                        {
+                           "text":"Durch Wettbewerb sollen die Leistungen und ihre Qualität verbessert sowie Wirtschaftlichkeit und Effizienz der Versorgung",
+                           "answer_start":128
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Wettbewerb in der Gesetzlichen Krankenversicherung (GKV) hat eine der Gesundheitsversorgung der Versicherten dienende Funktion. Durch Wettbewerb sollen die Leistungen und ihre Qualität verbessert sowie Wirtschaftlichkeit und Effizienz der Versorgung und ihrer Strukturen erzielt werden. Um die Rechtmäßigkeit des wettbewerblichen Handelns der Krankenkassen gleichmäßig sicherzustellen, haben sich die Aufsichtsbehörden des Bundes und der Länder am 19. März 1998 darauf verständigt, ihre Aufsichtspraxis an konkretisierten gemeinsamen Maßstäben („Wettbewerbsgrundsätzen“) auszurichten. Die Wettbewerbsgrundsätze in Ihrer aktuell gültigen Version (Stand 2016) finden Sie hier: Wesentliche Neuerungen haben wir übersichtlich für Sie zusammengestellt:"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Muss eine Familienversicherung gekündigt werden?",
+                     "id":14,
+                     "answers":[
+                        {
+                           "text":"Nein, die Abmeldung bei der Vorkasse erfolgt durch die TK",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nein, die Abmeldung bei der Vorkasse erfolgt durch die TK."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wann ist ein Krankenkassenwechsel möglich?",
+                     "id":15,
+                     "answers":[
+                        {
+                           "text":"Ausnahmen des Wahlrechts",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Ausnahmen des Wahlrechts Das Mitglied hat kein Wahlrecht nach Ende einer Familienversicherung wenn die obligatorische Anschlussversicherung nach § 188 Abs. 4 SGB V durchgeführt wird und dort wo eine Mitgliedschaft nach § 5 Abs. 1 Nr. 13a SGB V durchgeführt wird, sofern die Versicherung zuletzt bei der TK bestand. Die   oder die   spielt dabei keine Rolle und muss  .  Mitglied als Studierende seit 01.02.2021 Ende Studium 31.03.2021 Neue versicherungspflichtige Beschäftigung 01.04.2021 Es besteht zum 01.04.21 neues Wahlrecht. Beispiel 2 - Sofortiges Wahlrecht bei Wechsel des Arbeitsgebers Mitglied seit 01.01.2021 Ende versicherungspflichtige Beschäftigung zum 15.03.2021 Neue versicherungspflichtige Beschäftigung ab 16.03.2021 Ende versicherungspflichtige Beschäftigung zum 31.07.2021 Neue versicherungspflichtige Beschäftigung ab 01.08.2021 Neues Wahlrecht sowohl zum 16.03.2021 als auch zum 01.08.2021, da Arbeitgeberwechsel.  Beispiel 3 - Sofortiges Wahlrecht - Versicherung nach § 5 Abs. 1 Nr. 13a SGB V TK-Mitglied (von - bis) 01.06.2020 - 31.12.2020 Auslandsaufenthalt (von - bis)  01.01.2021 - 30.06.2021 Rückkehr und Versicherung nach § 5 Abs. 1 Nr. 13a SGB V ab 01.07.2021 Ab 01.07.21 kein neues Wahlrecht. Versicherung muss ab 01.07. bei der TK durchgeführt werden. Das Mitglied hat keine anschließende Binderfrist und kann bei Statuswechsel (z.B. Beschäftigungsbeginn) sofort wechseln. Beispiel 4 - Sofortiges Wahlrecht - obligatorische Anschlussversicherung (oAV) nach Familienversicherung  Familienversicherung bis 30.04.2021 obligatorische Anschlussversicherung ab  01.05.2021 Neue versicherungspflichtige Beschäftigung ab 01.07.2021 Kein neues Wahlrecht ab 01.05.2021, da es sich um eine oAV handelt.  Neues ab 01.07.2021, da die oAV kein Wahlrecht und auch keine Bindungsfrist ausgelöst hat. Beispiel 5 - Sofortiges Wahlrecht mit Unterbrechung TK-Mitglied seit  01.01.2021 Ende versicherungspflichtige Beschäftigung 31.05.2021 Neue versicherungspflichtige Beschäftigung ab  15.06.2021 Neues Wahlrecht ab 15.06.2021 unabhängig von Bindungsfrist, da Unterbrechung der Mitgliedschaft."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Gibt es eine Bindungsfrist bei einem Arbeitgeberwechsel?",
+                     "id":16,
+                     "answers":[
+                        {
+                           "text":"Bei einer neuen Beschäftigung können versicherungspflichtige Mitglieder sofort die Kasse wechseln - ohne Kündigung bei der Vorkasse und ohne Einhaltung der Bindungsfrist",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Bei einer neuen Beschäftigung können versicherungspflichtige Mitglieder sofort die Kasse wechseln - ohne Kündigung bei der Vorkasse und ohne Einhaltung der Bindungsfrist."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Welcher Antrag und welche Angaben werden auf dem Antrag benötigt?",
+                     "id":17,
+                     "answers":[
+                        {
+                           "text":"vollständige Angaben zur Person, Angaben zur Vorkasse, Angaben zum Arbeitgeber / bei Selbständigen eine realistische Schätzung der Einnahmen, Unterschrift des Kunden",
+                           "answer_start":172
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Als Vertriebspartner benutzen Sie bitte ausschließlich die Mitgliedschaftsanträge, die wir Ihnen unter Downloads zur Verfügung stellen. Zu den wichtigsten Angaben zählen: vollständige Angaben zur Person, Angaben zur Vorkasse, Angaben zum Arbeitgeber / bei Selbständigen eine realistische Schätzung der Einnahmen, Unterschrift des Kunden"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Welche Unterlagen werden für die jeweiligen Kunden benötigt?",
+                     "id":18,
+                     "answers":[
+                        {
+                           "text":"Folgende Tabelle gibt Ihnen einen Überblick",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Folgende Tabelle gibt Ihnen einen Überblick: Bescheide Arbeitnehmer ja ggfs.  - Selbstständige ja ja, Einkommens- steuerbescheid/ betriebswirtschaftliche Auswertung  - ja  - Studenten ja ja ja ja, falls ausgeübt Rentner ja ja, Rentenbescheid  - ggfs.  - Arbeitslose ja ja, Arbeitslosengeldbescheid  -  -  -"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Muss die Bankverbindung immer angegeben werden?",
+                     "id":19,
+                     "answers":[
+                        {
+                           "text":"Nein",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nein, die Bankverbindung wird lediglich bei Selbstzahlern wie Studenten, Selbstständigen und freiwillig versicherten Arbeitnehmern und freiwillig versicherten Rentner (sofern diese für die  Beitragsabführung selbst verantwortlich sind) benötigt."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Warum ist eine bestimmte Neuaufnahme nicht in Ihrer Abrechnung erfasst?",
+                     "id":20,
+                     "answers":[
+                        {
+                           "text":"Sollten Sie den Antrag an einer anderen Stelle innerhalb der TK einreichen, kann die Vergütung nicht sichergestellt werden.",
+                           "answer_start":131
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nur die Mitgliedschaftsanträge für Vertriebspartner, die auch im   eingereicht werden, können in den Abrechnungen erfasst werden. Sollten Sie den Antrag an einer anderen Stelle innerhalb der TK einreichen, kann die Vergütung nicht sichergestellt werden."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wann erhalten Sie keine Aufwandsentschädigung?",
+                     "id":21,
+                     "answers":[
+                        {
+                           "text":"wenn der Neukunde vorher bereits bei der TK versichert war, z. B. als Bestandskunde (Familienversicherung) wenn der Kunde bereits vom TK-Eigenvertrieb geworben wurde oder wenn die Mitgliedschaft nicht zustande kam",
+                           "answer_start":30
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Eine Vergütung erfolgt nicht, wenn der Neukunde vorher bereits bei der TK versichert war, z. B. als Bestandskunde (Familienversicherung) wenn der Kunde bereits vom TK-Eigenvertrieb geworben wurde oder wenn die Mitgliedschaft nicht zustande kam (z. B. weil ergänzende Unterlagen nicht eingereicht wurden)."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Muss die Familienversicherung bei der Vorkasse gekündigt werden?",
+                     "id":22,
+                     "answers":[
+                        {
+                           "text":"Nein",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nein. Die TK benötigt allerdings die genaue Angabe der Vorkasse, damit eine Meldung an die Vorkasse nach dem Meldeverfahren seitens der TK vorgenommen werden kann."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer kann familienversichert sein und wie viel darf bei der Familienversicherung hinzuverdient werden?",
+                     "id":23,
+                     "answers":[
+                        {
+                           "text":"Die TK versichert Familienangehörigen unter bestimmten Voraussetzungen beitragsfrei",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die TK versichert Familienangehörigen unter bestimmten Voraussetzungen beitragsfrei. Erfahren Sie, wer   sein kann und wer nicht und welche   es gibt."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wechsel von der PKV in die GKV?",
+                     "id":24,
+                     "answers":[
+                        {
+                           "text":"ist grundsätzlich nicht möglich",
+                           "answer_start":68
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Ein Wechsel von der privaten in die gesetzliche Krankenversicherung ist grundsätzlich nicht möglich. Ausnahmen sind zum Beispiel: Bei Nachweis einer Pflichtversicherung besteht gegenüber der privaten Versicherung ein Sonderkündigungsrecht zum Beginn der Pflichtversicherung ohne Einhaltung der sonst üblichen Kündigungsfristen. Der Eintritt von Versicherungspflicht ist ausgeschlossen, wenn der Betroffene Trifft dies zu, ist ein Wechsel von der privaten Krankenversicherung nicht möglich."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Gibt es in der gesetzlichen Krankenversicherung Wartezeiten und/ oder Gesundheitsprüfungen?",
+                     "id":25,
+                     "answers":[
+                        {
+                           "text":"keine Wartezeiten oder Gesundheitsprüfungen",
+                           "answer_start":60
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Bei einem Wechsel zur TK gibt es bei der Leistungsgewährung keine Wartezeiten oder Gesundheitsprüfungen."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wie lange dauert die Bearbeitung einer Neuaufnahme?",
+                     "id":26,
+                     "answers":[
+                        {
+                           "text":"circa eine Woche",
+                           "answer_start":8
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Es wird circa eine Woche für die Erfassung der Mitgliedschaft benötigt. Bei Klärungsbedarf oder unvollständigen Unterlagen kann sich die Bearbeitungszeit verlängern."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wird der Eingang eines Neuaufnahmeantrages bestätigt?",
+                     "id":27,
+                     "answers":[
+                        {
+                           "text":"Wenn Sie es wünschen",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Wenn Sie es wünschen, erhalten Sie nach Eingang des Antrages bei uns automatisch eine Bestätigung hierüber – aus datenschutzrechtlichen Gründen per Post. Eine Bestätigung der Mitgliedschaft wird gemäß datenschutzrechtlicher Vorgaben ausschließlich an den Kunden und die zur Meldung verpflichtete Stelle (Arbeitgeber, Universität, Rentenversicherungsträger) gesandt."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Der Kunde hat noch keine Unterlagen von der TK bekommen. Wurde die Mitgliedschaft bereits erfasst?",
+                     "id":28,
+                     "answers":[
+                        {
+                           "text":"Bitte wenden Sie sich mit Rückfragen zum Bearbeitungsstand erst nach Ablauf dieser Frist",
+                           "answer_start":166
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Für die Gesamtbearbeitung der Vermittlung und die Herstellung der Mitgliedschaft (inklusive Versand der Unterlagen an den Kunden) benötigen wir in der Regel 14 Tage. Bitte wenden Sie sich mit Rückfragen zum Bearbeitungsstand erst nach Ablauf dieser Frist an den  . Sie können den aktuellen Stand der Verarbeitung in der   des Datencenters jederzeit nachverfolgen."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wo ist der Neuaufnahmeantrag einzureichen?",
+                     "id":29,
+                     "answers":[
+                        {
+                           "text":"Techniker Krankenkasse Vertriebspartner 22291 Hamburg Tel. 040 - 46 06 62 38 00* Fax 0800 - 285 85 89-692 37 E-Mail vertriebspartner@tk.de * Montags bis freitags von 8 bis 18 Uhr Sollten Sie hierzu Fragen haben, wenden Sie sich gern an den Vertriebspartner-Service",
+                           "answer_start":81
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Neuaufnahmeanträge müssen immer an den Vertriebspartner-Service gesendet werden: Techniker Krankenkasse Vertriebspartner 22291 Hamburg Tel. 040 - 46 06 62 38 00* Fax 0800 - 285 85 89-692 37 E-Mail vertriebspartner@tk.de * Montags bis freitags von 8 bis 18 Uhr Sollten Sie hierzu Fragen haben, wenden Sie sich gern an den Vertriebspartner-Service."
+            },{"qas":[
+                  {
+                     "question":"Was ist bei Elterngeld und Elternzeit zu beachten?",
+                     "id":1000,
+                     "answers":[
+                        {
+                           "text":"Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld.",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer ist freiwillig versichert?",
+                     "id":1001,
+                     "answers":[
+                        {
+                           "text":"Freiwillig versichern können sich alle",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was müssen Studenten beachten?",
+                     "id":1002,
+                     "answers":[
+                        {
+                           "text":"Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02",
+                           "answer_start":285
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Welche Beitragssätze gibt es?",
+                     "id":1003,
+                     "answers":[
+                        {
+                           "text":"setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen",
+                           "answer_start":44
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 %"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Freiwillig versichert oder pflichtversichert?",
+                     "id":1004,
+                     "answers":[
+                        {
+                           "text":"Für die meisten Menschen gilt die Pflicht zur Versicherung in einer gesetzlichen Krankenkasse",
+                           "answer_start":73
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"In Deutschland muss sich jeder Bürger bei einer Krankenkasse versichern. Für die meisten Menschen gilt die Pflicht zur Versicherung in einer gesetzlichen Krankenkasse. Dazu zählt zum Beispiel der Großteil der Arbeitnehmer und Rentner. Bestimmte Personengruppen können jedoch nach dem Gesetz selbst entscheiden, ob sie sich privat oder freiwillig gesetzlich versichern. Ist also von einer freiwilligen Krankenversicherung die Rede, bezieht sich das auf die Wahlfreiheit zwischen einer privaten und einer gesetzlichen Versicherung wie der TK."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wie hoch sind die Beitragsbemessungsgrenzen?",
+                     "id":1005,
+                     "answers":[
+                        {
+                           "text":"in der Kranken- und Pflegeversicherung liegt 2021 bei 58.050 Euro jährlich beziehungsweise 4.837,50 Euro monatlich",
+                           "answer_start":29
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Beitragsbemessungsgrenze in der Kranken- und Pflegeversicherung liegt 2021 bei 58.050 Euro jährlich beziehungsweise 4.837,50 Euro monatlich. In der Renten- und Arbeitslosenversicherung sind es 85.200 Euro jährlich (7.100 Euro monatlich) im Rechtskreis West und 80.400 Euro jährlich (6.700 Euro monatlich) im Rechtskreis Ost. Nachstehend finden Sie eine Übersicht mit den Werten (in Euro) der letzten Jahre. Kalenderjahr Jahresbetrag Monatsbetrag Kalendertag 2021 58.050,00 4.837,50 161,25 2020 56.250,00 4.687,50 156,25 2019 54.450,00 4.537,50 151,25 2018 53.100,00 4.425,00 147,50 2017 52.200,00 4.350,00 145,00 2016 50.850,00 4.237,50 141,25"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer ist pflichtversichert?",
+                     "id":1006,
+                     "answers":[
+                        {
+                           "text":"grundsätzlich alle Arbeitnehmer",
+                           "answer_start":28
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Versicherungspflichtig sind grundsätzlich alle Arbeitnehmer, die aus ihrer Beschäftigung ein regelmäßiges beitragspflichtiges Einkommen von mehr als 450 Euro pro Monat und maximal 5.362,50 Euro pro Monat verdienen. Den unteren Wert nennt man Geringfügigkeitsgrenze, den oberen die allgemeine Versicherungspflichtgrenze. Diese Werte werden regelmäßig vom Gesetzgeber angepasst. Minijobber mit einem Einkommen von höchstens 450 Euro pro Monat sind versicherungsfrei. Sie zahlen selbst keine Beiträge. Das gleiche gilt für geringfügig beschäftigte Arbeitnehmer, die normalerweise nicht berufstätig sind und nur kurzfristig bis zu zwei Monate pro Jahr beschäftigt sind."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Für wen findet der durchschnittliche Zusatzbeitragssatz Anwendung?",
+                     "id":1008,
+                     "answers":[
+                        {
+                           "text":"Haben diese Personenkreise weitere beitragspflichtige Einnahmen (z.B. Renten oder Versorgungsbezüge), gilt dafür der kassenindividuelle Zusatzbeitragssatz.",
+                           "answer_start":129
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Für bestimmte Personenkreise gilt nicht der kassenindividuelle, sondern der durchschnittliche Zusatzbeitragssatz.  Dazu gehören: Haben diese Personenkreise weitere beitragspflichtige Einnahmen (z.B. Renten oder Versorgungsbezüge), gilt dafür der kassenindividuelle Zusatzbeitragssatz."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was müssen Fachschüler beachten?",
+                     "id":1009,
+                     "answers":[
+                        {
+                           "text":"können sich besonders günstig bei der TK versichern. Bis zu ihrem 25. ",
+                           "answer_start":19
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Fachschüler, die eine berufsbezogene Ausbildung an einer Berufsfachschule im Vollzeitunterricht absolvieren, können sich besonders günstig bei der TK versichern. Bis zu ihrem 25. Geburtstag können sie noch beitragsfrei über ihre Eltern mitversichert sein. Für die Beurteilung der Versicherung als Fachschüler spielt die die Altersgrenze (Vollendung des 30. Lebensjahres) keine Rolle. Für alle Fachschüler beträgt der monatlich Beitrag zur gesetzlichen Krankenversicherung 85,87 Euro (inklusive des TK-Zusatzbeitrags von 9,02 Euro) und 22,94 Euro für die Pflegeversicherung. Mitglieder ohne Kinder, die das 23. Lebensjahr vollendet haben, zahlen einen höheren Beitrag zur Pflegeversicherung und zwar 24,82 Euro. Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Was ist der durchschnittliche Zusatzbeitragssatz?",
+                     "id":10010,
+                     "answers":[
+                        {
+                           "text":"Für 2021 liegt er bei 1,3 Prozent und gilt ab dem 1. Januar 2021.",
+                           "answer_start":394
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Der durchschnittliche Zusatzbeitragssatz ist eine rechnerische Größe. Ein Expertengremium schätzt jedes Jahr bis zum 15. Oktober die Höhe der voraussichtlichen Ausgaben der Krankenkassen und Einnahmen des Gesundheitsfonds für das folgende Kalenderjahr. Das Bundesministerium für Gesundheit legt u. a. nach Auswertung dieser Ergebnisse die Höhe des durchschnittlichen Zusatzbeitragssatzes fest. Für 2021 liegt er bei 1,3 Prozent und gilt ab dem 1. Januar 2021."
+            }
+         ]
+      }
+   ]
+}

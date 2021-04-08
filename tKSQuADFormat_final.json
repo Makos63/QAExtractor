@@ -1,0 +1,490 @@
+{
+ "version": "v2.0",
+ "data": [
+  {
+   "title": "TK",
+   "paragraphs": [
+    {
+     "qas": {
+      "question": [
+       "\nWie ist die K\u00fcndi\u00adgungs\u00adfrist bei der bishe\u00adrigen Kran\u00adken\u00adkasse?\n"
+      ],
+      "id": 0,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Grunds\u00e4tzlich besteht eine 12-monatige Bindungsfrist bei der gew\u00e4hlten Krankenkasse. Die K\u00fcndigungsfrist betr\u00e4gt zwei volle Kalendermonate zum Monatsende.\u00a0 Die Frist zur Bindung an die bisherige Kasse verl\u00e4ngert sich auf bis zu drei Jahre, sofern der Kunde einen Wahltarif bei der bisherigen Krankenkasse gew\u00e4hlt hat (abh\u00e4ngig von der Art des Wahltarifes). Dann endet die Bindungsfrist fr\u00fchestens mit Ablauf des Wahltarifes."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nGibt es eine H\u00f6chst\u00advor\u00adlauf\u00adzeit f\u00fcr Mitglied\u00adschafts\u00adan\u00adtr\u00e4ge?\n"
+      ],
+      "id": 1,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Mitgliedschaftsantr\u00e4ge k\u00f6nnen bis zu einem Jahr vor Versicherungsbeginn bei der TK eingereicht werden."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWer muss bei der bishe\u00adrigen Kran\u00adken\u00adkasse k\u00fcndi\u00adgen?\n"
+      ],
+      "id": 2,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": ""
+    },
+    {
+     "qas": {
+      "question": [
+       "\nAb wann kann ich Ausk\u00fcnfte \u00fcber einen einge\u00adreichten Antrag erhal\u00adten?\n"
+      ],
+      "id": 3,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Die Vermittlung ist nach ca. 3 bis 5 Tagen sichtbar. Die eingereichten Unterlagen werden in dieser Zeit maschinell verarbeitet. Sie k\u00f6nnen den aktuellen Stand der Verarbeitung in der\u00a0  jederzeit nachverfolgen."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWann besteht ein Sonder\u00adk\u00fcn\u00addi\u00adgungs\u00adrecht?\n"
+      ],
+      "id": 4,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Die Bindungsfrist von 12\u00a0Monaten entf\u00e4llt, wenn eine Krankenkasse erstmals einen Zusatzbeitrag erhebt oder diesen erh\u00f6ht. Die Sonderk\u00fcndigung wegen des Zusatzbeitrags muss der Krankenkasse vorliegen, bevor dieser zum ersten Mal f\u00e4llig wird. Die zweimonatige K\u00fcndigungsfrist zum Monatsende bleibt hiervon unber\u00fchrt. Hat das Mitglied einen Krankengeld-Wahltarif abgeschlossen und gilt deshalb eine drei-j\u00e4hrige Bindungsfrist, wird diese nicht vom Sonderk\u00fcndigungsrecht aufgehoben. Diese Mitglieder k\u00f6nnen erst zum Ablauf der Bindungsfrist des Wahltarifs k\u00fcndigen und m\u00fcssen bis dahin den - erh\u00f6hten - Zusatzbeitrag zahlen."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nHaben Kunden trotz eines Status\u00adwech\u00adsels inner\u00adhalb der GKV eine K\u00fcndi\u00adgungs\u00adfrist einzu\u00adhal\u00adten?\n"
+      ],
+      "id": 5,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Eine  \u00a0haben wir f\u00fcr Sie zusammengestellt."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWas ist bei soge\u00adnannten Grenz\u00adg\u00e4n\u00adgern zu beach\u00adten?\n"
+      ],
+      "id": 6,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Personen, die in Deutschland leben und im europ\u00e4ischen Ausland arbeiten, sind grunds\u00e4tzlich in dem Land krankenversichert, in dem die Besch\u00e4ftigung besteht. In Deutschland k\u00f6nnen sie sich eine Krankenkasse suchen, die die Kosten f\u00fcr eventuell anfallende medizinische Versorgung begleicht, so dass sie in Deutschland zum Arzt gehen k\u00f6nnen. Die deutsche Krankenkasse l\u00e4sst sich die entstandenen Kosten von der Krankenversicherung im Besch\u00e4ftigungsland zur\u00fcckerstatten. Grundlage dieses Vorgangs ist das Formular S1 / E106 als Nachweis der Versicherung im Besch\u00e4ftigungsland, welches der deutschen Krankenkasse vorgelegt werden muss, damit der Versicherte eine Versicherungskarte erh\u00e4lt. Grenzg\u00e4nger sind keine TK-Mitglieder, somit ist auch kein Neuaufnahmeantrag f\u00fcr sie einzureichen. Der umgekehrte Fall (Wohnsitz im europ\u00e4ischen Ausland, Besch\u00e4ftigung in Deutschland) verh\u00e4lt sich analog."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nIst f\u00fcr Frauen im Mutter\u00adschutz oder w\u00e4hrend der Eltern\u00adzeit auch ein Wechsel der Kran\u00adken\u00adkasse m\u00f6glich?\n"
+      ],
+      "id": 7,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Ja, wichtig ist jedoch, dass auf dem Mitgliedschaftsantrag auch der Arbeitgeber vermerkt ist, bei dem die Frau w\u00e4hrend des Mutterschutzes bzw. der Elternzeit angestellt ist. Wenn die Frau pflichtversichert ist, ist die Mitgliedschaft w\u00e4hrend Mutterschutz/Elternzeit beitragsfrei. War die Frau vor dem Mutterschutz bzw. der Elternzeit als Arbeitnehmerin freiwillig versichert (z.B. wegen \u00dcberschreitung der Versicherungspflichtgrenze oder als Beamtin) \u00a0muss gepr\u00fcft werden, ob sie Anspruch auf die Familienversicherung hat. Ist ihr Mann in der PKV, besteht dieser Familienversicherungsanspruch nicht und sie muss sich in der GKV beitragspflichtig weiterversichern."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nKann man w\u00e4hrend einer laufenden Behand\u00adlung die Kran\u00adken\u00adkasse wech\u00adseln?\n"
+      ],
+      "id": 8,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Ja. Ab dem ersten Tag hat der Versicherte vollen Leistungsanspruch gegen\u00fcber seiner neuen Kasse."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWelche Wett\u00adbe\u00adwerbs\u00adgrund\u00ads\u00e4tze gelten?\n"
+      ],
+      "id": 9,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Wettbewerb in der Gesetzlichen Krankenversicherung (GKV) hat eine der Gesundheitsversorgung der Versicherten dienende Funktion. Durch Wettbewerb sollen die Leistungen und ihre Qualit\u00e4t verbessert sowie Wirtschaftlichkeit und Effizienz der Versorgung und ihrer Strukturen erzielt werden. Um die Rechtm\u00e4\u00dfigkeit des wettbewerblichen Handelns der Krankenkassen gleichm\u00e4\u00dfig sicherzustellen, haben sich die Aufsichtsbeh\u00f6rden des Bundes und der L\u00e4nder am 19. M\u00e4rz 1998 darauf verst\u00e4ndigt, ihre Aufsichtspraxis an konkretisierten gemeinsamen Ma\u00dfst\u00e4ben (\u201eWettbewerbsgrunds\u00e4tzen\u201c) auszurichten. Die Wettbewerbsgrunds\u00e4tze in Ihrer aktuell g\u00fcltigen Version (Stand 2016) finden Sie hier: Wesentliche Neuerungen haben wir \u00fcbersichtlich f\u00fcr Sie zusammengestellt:"
+    },
+    {
+     "qas": {
+      "question": [
+       "\nDarf die TK ihrem Vertriebs\u00adpartner eine Mitglied\u00adschafts\u00adbe\u00adschei\u00adni\u00adgung oder Infor\u00adma\u00adtionen f\u00fcr seinen Mandanten zukommen lassen?\n"
+      ],
+      "id": 10,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Nein, leider nicht. Sie erhalten von uns eine Eingangsbest\u00e4tigung mit einer Neukundennummer. Grund daf\u00fcr ist, dass diese Daten als Sozialdaten bezeichnet werden und einem besonderen Schutz, dem Sozialgeheimnis nach dem Sozialgesetzbuch unterliegen. Das Sozialgeheimnis sch\u00fctzt die Sozialdaten vor unzul\u00e4ssiger Erhebung, Verarbeitung und Nutzung. Dieser Schutz besteht auch darin, dass Mitarbeiter der TK auf Sozialdaten nur zugreifen oder von diesen Kenntnis erhalten d\u00fcrfen, wenn dies f\u00fcr die Erledigung ihrer Aufgaben erforderlich ist."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nKann ein 55-J\u00e4hriger noch in die GKV wech\u00adseln?\n"
+      ],
+      "id": 11,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Ja, wenn er in den letzten f\u00fcnf Jahren mindestens einen Tag in der GKV versichert war. Hier\u00fcber ist ein Nachweis erforderlich."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWann erhalten Sie Ihre Aufwands\u00adent\u00adsch\u00e4\u00addi\u00adgung?\n"
+      ],
+      "id": 12,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Sie erhalten Ihre Aufwandsentsch\u00e4digung, nachdem die Mitgliedschaft wirksam geworden ist, nicht mit Eingang der Unterlagen. Die Abrechnungen sind bis zum 15. jeden Monats abgeschlossen und werden postalisch an Sie versandt. Beginnt die Mitgliedschaft im laufenden Monat, erfolgt die Auszahlung erst mit Abrechnung des Folgemonats."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWann ist ein Kran\u00adken\u00adkas\u00adsen\u00adwechsel m\u00f6glich?\n"
+      ],
+      "id": 13,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Ausnahmen des Wahlrechts Das Mitglied hat kein\u00a0Wahlrecht\u00a0nach Ende einer Familienversicherung wenn\u00a0die obligatorische Anschlussversicherung nach \u00a7 188 Abs. 4 SGB V durchgef\u00fchrt wird und dort wo eine Mitgliedschaft nach \u00a7 5 Abs. 1 Nr. 13a SGB V durchgef\u00fchrt wird, sofern die Versicherung\u00a0zuletzt bei der TK bestand. Die   oder die   spielt dabei keine Rolle und muss  .\u00a0 Mitglied als Studierende seit 01.02.2021 Ende Studium 31.03.2021 Neue versicherungspflichtige Besch\u00e4ftigung 01.04.2021 Es besteht zum 01.04.21 neues Wahlrecht. Beispiel 2\u00a0- Sofortiges Wahlrecht bei Wechsel des Arbeitsgebers Mitglied seit 01.01.2021 Ende\u00a0versicherungspflichtige Besch\u00e4ftigung zum 15.03.2021 Neue versicherungspflichtige Besch\u00e4ftigung ab 16.03.2021 Ende versicherungspflichtige Besch\u00e4ftigung zum 31.07.2021 Neue versicherungspflichtige Besch\u00e4ftigung ab 01.08.2021 Neues Wahlrecht sowohl zum\u00a016.03.2021 als auch zum 01.08.2021, da Arbeitgeberwechsel.\u00a0 Beispiel 3\u00a0- Sofortiges Wahlrecht - Versicherung nach \u00a7 5 Abs. 1 Nr. 13a SGB V TK-Mitglied (von - bis) 01.06.2020\u00a0- 31.12.2020 Auslandsaufenthalt (von - bis)\u00a0 01.01.2021\u00a0- 30.06.2021 R\u00fcckkehr und Versicherung nach \u00a7 5 Abs. 1 Nr. 13a SGB V ab 01.07.2021 Ab 01.07.21\u00a0kein neues Wahlrecht. Versicherung muss ab 01.07. bei der TK durchgef\u00fchrt werden. Das Mitglied hat keine anschlie\u00dfende Binderfrist und kann bei Statuswechsel (z.B. Besch\u00e4ftigungsbeginn) sofort wechseln. Beispiel 4\u00a0- Sofortiges Wahlrecht - obligatorische Anschlussversicherung (oAV) nach\u00a0Familienversicherung\u00a0 Familienversicherung\u00a0bis 30.04.2021 obligatorische Anschlussversicherung ab\u00a0 01.05.2021 Neue versicherungspflichtige Besch\u00e4ftigung ab 01.07.2021 Kein neues Wahlrecht ab 01.05.2021, da es sich um eine oAV handelt.\u00a0 Neues ab 01.07.2021, da die oAV kein Wahlrecht und auch keine Bindungsfrist ausgel\u00f6st hat. Beispiel 5\u00a0- Sofortiges Wahlrecht mit Unterbrechung TK-Mitglied seit\u00a0 01.01.2021 Ende versicherungspflichtige Besch\u00e4ftigung 31.05.2021 Neue versicherungspflichtige Besch\u00e4ftigung ab\u00a0 15.06.2021 Neues Wahlrecht ab 15.06.2021\u00a0unabh\u00e4ngig von Bindungsfrist, da Unterbrechung der Mitgliedschaft."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWie l\u00e4uft der K\u00fcndi\u00adgungs\u00adpro\u00adzess ab?\n"
+      ],
+      "id": 14,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " K\u00fcndigung der Vorkasse ist nicht mehr n\u00f6tig"
+    },
+    {
+     "qas": {
+      "question": [
+       "\nMuss eine Fami\u00adli\u00aden\u00adver\u00adsi\u00adche\u00adrung gek\u00fcn\u00addigt werden?\n"
+      ],
+      "id": 15,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Nein, die Abmeldung bei der Vorkasse erfolgt durch die TK."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nGibt es eine Bindungs\u00adfrist bei einem Arbeit\u00adge\u00adber\u00adwech\u00adsel?\n"
+      ],
+      "id": 16,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Bei einer neuen Besch\u00e4ftigung k\u00f6nnen versicherungspflichtige Mitglieder sofort die Kasse wechseln -\u00a0ohne K\u00fcndigung bei der Vorkasse und ohne Einhaltung der Bindungsfrist."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWelcher Antrag und welche Angaben werden auf dem Antrag ben\u00f6\u00adtigt?\n"
+      ],
+      "id": 17,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Als Vertriebspartner benutzen Sie bitte ausschlie\u00dflich die Mitgliedschaftsantr\u00e4ge, die wir Ihnen unter Downloads zur Verf\u00fcgung stellen. Zu den wichtigsten Angaben z\u00e4hlen:"
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWelche Unter\u00adlagen werden f\u00fcr die jewei\u00adligen Kunden ben\u00f6\u00adtigt?\n"
+      ],
+      "id": 18,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Folgende Tabelle gibt Ihnen einen \u00dcberblick: Bescheide Arbeitnehmer ja ggfs. \u00a0- Selbstst\u00e4ndige ja ja, Einkommens- steuerbescheid/ betriebswirtschaftliche Auswertung \u00a0- ja \u00a0- Studenten ja ja ja ja, falls ausge\u00fcbt Rentner ja ja, Rentenbescheid \u00a0- ggfs. \u00a0- Arbeitslose ja ja, Arbeitslosengeldbescheid \u00a0- \u00a0- \u00a0-"
+    },
+    {
+     "qas": {
+      "question": [
+       "\nMuss die Bank\u00adver\u00adbin\u00addung immer ange\u00adgeben werden?\n"
+      ],
+      "id": 19,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Nein, die Bankverbindung wird lediglich bei Selbstzahlern wie Studenten, Selbstst\u00e4ndigen und freiwillig versicherten Arbeitnehmern und freiwillig versicherten Rentner (sofern diese f\u00fcr die \u00a0Beitragsabf\u00fchrung selbst verantwortlich sind) ben\u00f6tigt."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWarum ist eine bestimmte Neuauf\u00adnahme nicht in Ihrer Abrech\u00adnung erfasst?\n"
+      ],
+      "id": 20,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Nur die Mitgliedschaftsantr\u00e4ge f\u00fcr Vertriebspartner, die auch im   eingereicht werden, k\u00f6nnen in den Abrechnungen erfasst werden. Sollten Sie den Antrag an einer anderen Stelle innerhalb der TK einreichen, kann die Verg\u00fctung nicht sichergestellt werden."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWann erhalten Sie keine Aufwands\u00adent\u00adsch\u00e4\u00addi\u00adgung?\n"
+      ],
+      "id": 21,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Eine Verg\u00fctung erfolgt nicht,"
+    },
+    {
+     "qas": {
+      "question": [
+       "\nMuss die Fami\u00adli\u00aden\u00adver\u00adsi\u00adche\u00adrung bei der Vorkasse gek\u00fcn\u00addigt werden?\n"
+      ],
+      "id": 22,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Nein. Die TK ben\u00f6tigt allerdings die genaue Angabe der Vorkasse, damit eine Meldung an die Vorkasse nach dem Meldeverfahren seitens der TK vorgenommen werden kann."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWer kann fami\u00adli\u00aden\u00adver\u00adsi\u00adchert sein und wie viel darf bei der Fami\u00adli\u00aden\u00adver\u00adsi\u00adche\u00adrung hinzu\u00adver\u00addient werden?\n"
+      ],
+      "id": 23,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Die TK versichert Familienangeh\u00f6rigen unter bestimmten Voraussetzungen beitragsfrei. Erfahren Sie, wer   sein kann und wer nicht und welche   es gibt."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nGibt es in der gesetz\u00adli\u00adchen Kran\u00adken\u00adver\u00adsi\u00adche\u00adrung Warte\u00adzeiten und/ oder Gesund\u00adheits\u00adpr\u00fc\u00adfun\u00adgen?\n"
+      ],
+      "id": 24,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Bei einem Wechsel zur TK gibt es bei der Leistungsgew\u00e4hrung keine Wartezeiten oder Gesundheitspr\u00fcfungen."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWechsel von der PKV in die GKV?\n"
+      ],
+      "id": 25,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Ein Wechsel von der privaten in die gesetzliche Krankenversicherung ist grunds\u00e4tzlich nicht m\u00f6glich. Ausnahmen sind zum Beispiel: Bei Nachweis einer Pflichtversicherung besteht gegen\u00fcber der privaten Versicherung ein Sonderk\u00fcndigungsrecht zum Beginn der Pflichtversicherung ohne Einhaltung der sonst \u00fcblichen K\u00fcndigungsfristen. Der Eintritt von Versicherungspflicht ist ausgeschlossen, wenn der Betroffene Trifft dies zu, ist ein Wechsel von der privaten Krankenversicherung nicht m\u00f6glich."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWie lange dauert die Bear\u00adbei\u00adtung einer Neuauf\u00adnahme?\n"
+      ],
+      "id": 26,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Es wird circa eine Woche f\u00fcr die Erfassung der Mitgliedschaft ben\u00f6tigt. Bei Kl\u00e4rungsbedarf oder unvollst\u00e4ndigen Unterlagen kann sich die Bearbeitungszeit verl\u00e4ngern."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWird der Eingang eines Neuauf\u00adnah\u00adme\u00adan\u00adtrages best\u00e4\u00adtigt?\n"
+      ],
+      "id": 27,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Wenn Sie es w\u00fcnschen, erhalten Sie nach Eingang des Antrages bei uns automatisch eine Best\u00e4tigung hier\u00fcber \u2013 aus datenschutzrechtlichen Gr\u00fcnden per Post. Eine Best\u00e4tigung der Mitgliedschaft wird gem\u00e4\u00df datenschutzrechtlicher Vorgaben ausschlie\u00dflich an den Kunden und die zur Meldung verpflichtete Stelle (Arbeitgeber, Universit\u00e4t, Rentenversicherungstr\u00e4ger) gesandt."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nDer Kunde hat noch keine Unter\u00adlagen von der TK bekom\u00admen. Wurde die Mitglied\u00adschaft bereits erfasst?\n"
+      ],
+      "id": 28,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " F\u00fcr die Gesamtbearbeitung der Vermittlung und die Herstellung der Mitgliedschaft (inklusive Versand der Unterlagen an den Kunden) ben\u00f6tigen wir in der Regel 14 Tage. Bitte wenden Sie sich mit R\u00fcckfragen zum Bearbeitungsstand erst nach Ablauf dieser Frist an den  . Sie k\u00f6nnen den aktuellen Stand der Verarbeitung in der   des Datencenters jederzeit nachverfolgen."
+    },
+    {
+     "qas": {
+      "question": [
+       "\nWo ist der Neuauf\u00adnah\u00adme\u00adan\u00adtrag einzu\u00adrei\u00adchen?\n"
+      ],
+      "id": 29,
+      "answers": [
+       {
+        "text": "",
+        "answer_start": 0
+       }
+      ],
+      "is_impossible": false
+     },
+     "context": " Neuaufnahmeantr\u00e4ge m\u00fcssen immer an den Vertriebspartner-Service gesendet werden: Techniker Krankenkasse Vertriebspartner 22291 Hamburg Tel. 040 - 46 06 62 38 00* Fax 0800 - 285 85 89-692 37 E-Mail vertriebspartner@tk.de * Montags bis freitags von 8 bis 18 Uhr Sollten Sie hierzu Fragen haben, wenden Sie sich gern an den Vertriebspartner-Service."
+    }
+   ]
+  }
+ ]
+}
