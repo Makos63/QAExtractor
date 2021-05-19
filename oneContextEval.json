@@ -1,0 +1,107 @@
+{
+ "version": "v2.0",
+ "data": [
+  {
+   "title": "TK",
+   "paragraphs": [
+    {
+     "qas": [
+      {
+       "question": "Was ist bei Elterngeld und Elternzeit zu beachten?",
+       "id": 0,
+       "answers": [
+        {
+         "text": " Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht.",
+         "answer_start": 51
+        },
+        {
+         "text": " Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht.",
+         "answer_start": 51
+        },
+        {
+         "text": " Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht.",
+         "answer_start": 51
+        },
+        {
+         "text": " Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht.",
+         "answer_start": 51
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Wer ist freiwillig versichert?",
+       "id": 1,
+       "answers": [
+        {
+         "text": " Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern",
+         "answer_start": 570
+        },
+        {
+         "text": " Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern",
+         "answer_start": 570
+        },
+        {
+         "text": " Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern",
+         "answer_start": 570
+        },
+        {
+         "text": " Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern",
+         "answer_start": 570
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Was müssen Studenten beachten?",
+       "id": 2,
+       "answers": [
+        {
+         "text": " Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab.",
+         "answer_start": 1039
+        },
+        {
+         "text": " Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab.",
+         "answer_start": 1039
+        },
+        {
+         "text": " Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab.",
+         "answer_start": 1039
+        },
+        {
+         "text": " Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab.",
+         "answer_start": 1039
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Welche Beitragssätze gibt es?",
+       "id": 3,
+       "answers": [
+        {
+         "text": " Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 %",
+         "answer_start": 2138
+        },
+        {
+         "text": " Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 %",
+         "answer_start": 2138
+        },
+        {
+         "text": " Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 %",
+         "answer_start": 2138
+        },
+        {
+         "text": " Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 %",
+         "answer_start": 2138
+        }
+       ],
+       "is_impossible": false
+      }
+     ],
+     "context": "Was ist bei Elterngeld und Elternzeit zu beachten? Nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG) haben Mütter und Väter von der Geburt ihres Kindes an Anspruch auf Elterngeld. Erwerbstätige können außerdem Elternzeit beanspruchen. Solange Sie als versicherungspflichtig Beschäftigte Elternzeit in Anspruch nehmen oder Elterngeld beziehen, sind Sie beitragsfrei TK-versichert. Die nachfolgende Tabelle zeigt Ihnen, ob während des Bezugs von Elterngeld oder der Elternzeit Beiträge zur Sozialversicherung gezahlt müssen oder nicht. Wer ist freiwillig versichert? Freiwillig versichern können sich alle, die direkt vor dem Beginn der freiwilligen Versicherung bei einer gesetzlichen Krankenkasse versichert sind und nicht versicherungspflichtig sind. Zum Beispiel Wenn Sie müssen Sie in den letzten fünf Jahren 24 Monate oder unmittelbar vor Beginn der freiwilligen Mitgliedschaft zwölf Monate lang gesetzlich versichert gewesen sein. Ohne vorherige gesetzliche Versicherung können sich nur versichern Was müssen Studenten beachten? Als pflichtversicherter Student zahlt man einen bundesweit einheitlichen Beitrag, der abhängig vom BAföG-Bedarfssatz ist - unabhängig davon, ob der Student selbst BAföG bezieht oder nicht.  Zusammensetzung des monatlichen Beitrags Bis 23 Jahre oder ab 23 Jahre  Kind ab 23 Jahre  Kind Krankenversicherung gesetzlich festgelegt 76,85 Zusatzbeitrag TK 9,02 9,02 Pflegeversicherung 22,94 24,82 Wenn das Studium noch nicht abgeschlossen ist, aber bereits das 30. Lebensjahr vollendet ist, können sich Studierende unter   freiwillig bei der TK weiterversichern. Sie zahlen den Mindestbeitrag für die freiwillige Versicherung, soweit ihre beitragspflichtigen Einkünfte 1.096,67 Euro nicht übersteigen. Für die Weiterversicherung zahlen Studierende ab Januar 2021 monatlich 166,69 Euro für die Krankenversicherung. Der Mindestbeitrag für die Pflegeversicherung liegt bei 33,45 Euro im Monat, für Kinderlose ab 23 Jahren bei 36,19 Euro monatlich. Nach Ende der Versicherung als Student zahlen Sie die regulären Beiträge für freiwillig Versicherte. Sie hängen vom Einkommen ab. Welche Beitragssätze gibt es? Unser Beitragssatz beträgt 15,8 Prozent. Er setzt sich aus dem allgemeinen Beitragssatz von 14,6 Prozent und dem kassenindividuellen Zusatzbeitragssatz von 1,2 Prozent zusammen. Dieser liegt unter dem gesetzlichen durchschnittlichen Zusatzbeitragssatz von 1,3 Prozent.  TK-Beitragssätze Beitragssatz Arbeitgeberanteil Allgemeiner Beitragssatz TK-Zusatzbeitragssatz 0,65 % Ermäßigter Beitragssatz* Beitragszuschlag für Kinderlose ab 23 Jahren 0,0 % * Der ermäßigte Beitragssatz gilt beispielsweise für Selbstständige, die ohne Anspruch auf Krankengeld versichert sind. ** In Sachsen 1,025 % "
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+   "version":"v2.0",
+   "data":[
+      {
+         "title":"TK",
+         "paragraphs":[
+            {
+               "qas":[
+                  {
+                     "question":"Wann besteht ein Sonderkündigungsrecht?",
+                     "id":0,
+                     "answers":[
+                        {
+                           "text":"wenn eine Krankenkasse erstmals einen Zusatzbeitrag erhebt oder diesen erhöht",
+                           "answer_start":43
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Bindungsfrist von 12 Monaten entfällt, wenn eine Krankenkasse erstmals einen Zusatzbeitrag erhebt oder diesen erhöht. Die Sonderkündigung wegen des Zusatzbeitrags muss der Krankenkasse vorliegen, bevor dieser zum ersten Mal fällig wird. Die zweimonatige Kündigungsfrist zum Monatsende bleibt hiervon unberührt. Hat das Mitglied einen Krankengeld-Wahltarif abgeschlossen und gilt deshalb eine drei-jährige Bindungsfrist, wird diese nicht vom Sonderkündigungsrecht aufgehoben. Diese Mitglieder können erst zum Ablauf der Bindungsfrist des Wahltarifs kündigen und müssen bis dahin den - erhöhten - Zusatzbeitrag zahlen."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Haben Kunden trotz eines Statuswechsels innerhalb der GKV eine Kündigungsfrist einzuhalten?",
+                     "id":1,
+                     "answers":[
+                        {
+                           "text":"Mit der Aufnahme einer neuen versicherungspflichtigen Beschäftigung kann das Mitglied bis maximal 14 Tage nach Beschäftigungsbeginn eine neue Kasse wählen - ohne Einhaltung der Bindungsfrist",
+                           "answer_start":44
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Keine Bindungsfrist bei Arbeitgeberwechsel. Mit der Aufnahme einer neuen versicherungspflichtigen Beschäftigung kann das Mitglied bis maximal 14 Tage nach Beschäftigungsbeginn eine neue Kasse wählen - ohne Einhaltung der Bindungsfrist. Das gilt auch bei einem Arbeitgeberwechsel oder beim Wechsel von einem versicherungspflichtigen Status in einen anderen, zum Beispiel wenn die Versicherungspflicht bei Überschreiten der Jahresarbeitsentgeltgrenze (JAEG) am Jahresende in eine freiwillige Versicherung geändert wird"
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Ab wann kann ich Auskünfte über einen eingereichten Antrag erhalten?",
+                     "id":2,
+                     "answers":[
+                        {
+                           "text":"Die Vermittlung ist nach ca. 3 bis 5 Tagen sichtbar",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Vermittlung ist nach ca. 3 bis 5 Tagen sichtbar. Die eingereichten Unterlagen werden in dieser Zeit maschinell verarbeitet. Sie können den aktuellen Stand der Verarbeitung in der   jederzeit nachverfolgen."
+            },
+            {
+               "qas":[
+                  {
+                     "question":"Wer muss bei der bisherigen Krankenkasse kündigen?",
+                     "id":3,
+                     "answers":[
+                        {
+                           "text":"Die Kündigung bei der bisherigen Kasse erfolgt nicht mehr durch den Kunden, sondern durch die TK.",
+                           "answer_start":0
+                        }
+                     ],
+                     "is_impossible":false
+                  }
+               ],
+               "context":"Die Kündigung bei der bisherigen Kasse erfolgt nicht mehr durch den Kunden, sondern durch die TK. Die Kündigungsfrist von zwei Monaten zum Monatsende bei einer durchgängigen Beschäftigung gilt weiterhin. Der Versicherte erhält außerdem keine Kündigungsbestätigung mehr von seiner bisherigen Kasse."
+            }         ]
+      }
+   ]
+}
